@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eiffel Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.294351, 48.858844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue of Liberty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.044502, 40.689247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.243683, 34.052235]
+      }
+    },
+    // Ajoutez d'autres localisations ici
+  ]
+}
